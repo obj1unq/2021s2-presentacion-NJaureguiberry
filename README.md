@@ -2,10 +2,10 @@
 
 ## Estudiante: _JAUREGUIBERRY NICOLÁS_
 
--Mi nombre es Nicolás Jaureguiberry, tengo 29 años.
--Soy baterista y toco desde los 11 años, estilos variados, de preferencia Hard Rock.
--Fotógrafo profesional recibido en el ISEC
--Amante de los videojuegos.
+.Mi nombre es Nicolás Jaureguiberry, tengo 29 años.
+.Soy baterista y toco desde los 11 años, estilos variados, de preferencia Hard Rock.
+.Fotógrafo profesional recibido en el ISEC
+.Amante de los videojuegos.
 
 ![yo](jacku1.jpg)
 
